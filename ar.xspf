@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1774298219/ei/C1DBadjDCM_DobIP_KmtmQg/ip/2803%3A9810%3A3949%3A1608%3Ac474%3Aafd%3A8d90%3A9a55/id/ArKbAx1K-2U.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811605/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGIk_-yKknK5d6vaaopBB2RZ9vGCONlLLzTBhdTiTIiHYAEChqvbbRgoyBB2So2mP-IhW-YsYRup/spc/jlWavRbtU6qu_CMugzEqFw9iXgtQF0waQVgbF4TVG0dZ_mlKTo_FlMA-AbRYtQHvqarhoA/vprv/1/go/1/ns/7m8Qn9FCLJJP5gYaMyvBJbgT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/xF-abTur-4SQUhS3e1/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgflrCMUmqka7gxKfuqBUledCyKsvkClkaf7SZKvHuZIwCIQDezIuOggwMpgtdXYeR2TeVGkVgfV5Ot9vRrp3CwtHUeQ%3D%3D/file/index.m3u8</location>
+			<title>🟥 A24 EN VIVO | Noticias de Argentina y el mundo las 24 horas</title>
+			<creator>A24com</creator>
+			<annotation>📺  A24 EN VIVO 
+
+Informate en #A24 🟥🟥🟥
+📲 ¡Suscribite a nuestro canal! → youtube.com/A24com
+🖥 Encontrá más noticias en nuestra web → www.A24.com
+👍 ¡No te olvides de seguirnos en nuestras redes!
+→ Facebook: https://www.facebook.com/A24com
+→ Instagram: https://www.instagram.com/a24noticias
+→ X: https://www.twitter.com/A24COM
+→ TikTok: https://www.tiktok.com/@a24noticias
+→ Twitch: https://www.twitch.tv/a24noticias
+→ WhatsApp: https://whatsapp.com/channel/0029Va5SVMlLdQem3ifYpl2n
+→ Telegram: https://t.me/s/A24noticias</annotation>
+			<info>https://www.youtube.com/c/A24com/live</info>
+			<image>file:///C:/Users/m3rg/AppData/Roaming/vlc/art/arturl/2bb0a0d9aacfcb1bb4be618641e0eb7c/art</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8</location>
+			<title>América Ⓨ</title>
+			<duration>60000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://stream.arcast.live/ahora/ahora/playlist.m3u8</location>
+			<title>Canal 9 Litoral (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/c/canal26/live</location>
+			<title>Canal 26 Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/c/cronicatv/live</location>
+			<title>Crónica TV Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/c/c5n/live</location>
+			<title>C5N Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/c/LaNacionMas/live</location>
+			<title>LN+ Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://livetrx01.vodgc.net/eltrecetv/index.m3u8</location>
+			<title>El Trece</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>http-referrer=https://vodgc.net</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8</location>
+			<title>Telefe Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/c/todonoticias/live</location>
+			<title>TN Todo Noticias Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ola1.com.ar/tvp/index.m3u8</location>
+			<title>Televisión Pública Ⓨ</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8</location>
+			<title>TyC Sports (1080p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+	</extension>
+</playlist>
