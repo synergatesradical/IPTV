@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-country="AR" group-title="Argentina",A24 Ⓨ
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/c/A24com/live
